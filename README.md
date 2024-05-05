@@ -5,6 +5,8 @@
 - 📫 How to reach me prism182.github@outlook.com
 - ⚡ Fun fact: Did you know it would only take 10 minuites to hack a computer through brute force means on the same network? no? well me neither untill i tested it on an old computer of mine
 
+- Did you know? I have a patreon, subsribe here! https://www.patreon.com/Prism182
+
 <!---
 Prism182/Prism182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
